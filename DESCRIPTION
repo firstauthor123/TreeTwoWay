@@ -9,7 +9,7 @@ Authors@R: person("Susmita", "Chawlia",
 Description:
   Provides three hypothesis testing procedures for two-way ANOVA
 under tree-order restrictions:
-  (1) Likelihood Ratio Test (TreeLRT),
+(1) Likelihood Ratio Test (TreeLRT),
 (2) MinMin test (TreeMinMn), and
 (3) MinMax test (TreeMinMax).
 All functions use parametric bootstrap to obtain critical values
@@ -19,6 +19,6 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.3
 Imports:
-  MASS,
+MASS,
 Matrix,
 stats
