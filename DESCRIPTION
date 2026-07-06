@@ -4,10 +4,9 @@ Type: Package
 Title: Likelihood Ratio and MinMin/MinMax Tests for Two-Way ANOVA Under Tree Order Restriction
 Version: 0.1.0
 Authors@R: person("Susmita", "Chawlia",
-                  email = "susmitachawlia16@kgpian.iitkgp.ac.in.com",
+                  email = "susmitachawlia16@kgpian.iitkgp.ac.in",
                   role = c("aut","cre"))
-Description:
-  Provides three hypothesis testing procedures for two-way ANOVA
+Description:Provides three hypothesis testing procedures for two-way ANOVA with interaction
 under tree-order restrictions:
 (1) Likelihood Ratio Test (TreeLRT),
 (2) MinMin test (TreeMinMn), and
