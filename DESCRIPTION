@@ -1,7 +1,7 @@
 
 Package: TreeTwoWay
 Type: Package
-Title: Likelihood Ratio and MINMIN/MINMAX Tests for Two-Way ANOVA Under Tree Order Restriction
+Title: Likelihood Ratio and MinMin/MinMax Tests for Two-Way ANOVA Under Tree Order Restriction
 Version: 0.1.0
 Authors@R: person("Susmita", "Chawlia",
                   email = "susmitachawlia16@gmail.com",
@@ -10,8 +10,8 @@ Description:
   Provides three hypothesis testing procedures for two-way ANOVA
 under tree-order restrictions:
   (1) Likelihood Ratio Test (TreeLRT),
-(2) MINMIN test (TreeMinMn), and
-(3) MINMAX test (TreeMinMax).
+(2) MinMin test (TreeMinMn), and
+(3) MinMax test (TreeMinMax).
 All functions use parametric bootstrap to obtain critical values
 under heteroscedasticity and unequal sample sizes.
 License: GPL-3
